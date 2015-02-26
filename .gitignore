@@ -1,5 +1,6 @@
 # Config and dotfiles
 .*
+!.htaccess
 !.travis.yml
 !.scrutinizer.yml
 webapp/config.inc.php
